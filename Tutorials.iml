@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D - Tutorial 14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3D Engine - 13-06-15" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
